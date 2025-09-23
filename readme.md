@@ -1,5 +1,7 @@
 # 🛠️ Сборка модов для сервера и клиента
-[Скачать моды](https://disk.yandex.ru/d/MtZdMgS3nAAz1A)
+[Скачать моды](https://disk.yandex.ru/d/ooBN8VqWwgzmFw)
+
+---
 
 ## 🌐 Сервер (обязательно также на клиенте)
 
@@ -27,6 +29,7 @@
 - [BetterEnd](https://modrinth.com/mod/betterend) — новые биомы, мобы и т. д.  
 - [End Remastered](https://modrinth.com/mod/endrem) — 12 разных глаз для портала  
 - [YUNG’s Better End Island](https://modrinth.com/mod/yungs-better-end-island) — переработка острова с драконом  
+- [Better End Cities for BetterEnd](https://modrinth.com/mod/better-end-cities-for-betterend) — новые города в Энде  
 - [EDF Remastered (Datapack)](https://modrinth.com/datapack/edf-remastered) — усложнённая битва с драконом *(клиент необязателен)*  
 
 ### ☁️ Рай
@@ -36,12 +39,25 @@
 ### 📦 Прочие моды
 - [Traveler’s Backpack](https://modrinth.com/mod/travelersbackpack) — рюкзаки  
 - [Bosses of Mass Destruction](https://modrinth.com/mod/bosses-of-mass-destruction) — новые боссы  
-- ~~[The Bumblezone](https://modrinth.com/mod/the-bumblezone-fabric) — мир пчёл (удалён: малоинтересный, ресурсоёмкий)~~  
 - [Aquamirae](https://modrinth.com/mod/aquamirae) — океанские монстры  
 - [MineCells](https://modrinth.com/mod/minecells) — мир Dead Cells  
 - [Friends and Foes](https://modrinth.com/mod/friends-and-foes) — новые мобы с голосования  
 - [VillagersPlus](https://modrinth.com/mod/villagersplus) — новые жители  
+- [Villager Names](https://modrinth.com/mod/villager-names-serilum) — жителям автоматически даются имена  
 - [Another Furniture](https://modrinth.com/mod/another-furniture/gallery) — мебель  
+- [Mutant Monsters](https://modrinth.com/mod/mutant-monsters) — усиленные монстры  
+- [Naturalist](https://modrinth.com/mod/naturalist) — разнообразие мобов и биомов  
+- [Expanded Ecosphere](https://modrinth.com/mod/expanded-ecosphere) — новые биомы и атмосфера  
+- [Zombie Horse Spawn](https://modrinth.com/mod/zombie-horse-spawn) — зомби-лошади могут спавниться естественно  
+- [Skeleton Horse Spawn](https://modrinth.com/mod/skeleton-horse-spawn) — скелет-лошади могут спавниться естественно  
+- [Cardboard](https://modrinth.com/mod/cardboard) — мод для запуска серверных плагинов  
+- [Odyssey Quests](https://modrinth.com/mod/odyssey-quests) — система квестов и прогрессии  
+- [Comforts](https://modrinth.com/mod/comforts) — спальные мешки и гамаки для установки точек возрождения  
+- [Immersive Aircraft](https://modrinth.com/mod/immersive-aircraft) — управляемые летательные аппараты  
+- [Naturally Trimmed](https://modrinth.com/mod/naturally-trimmed) — доспехи автоматически имеют случайные узоры из обломков кузницы  
+- [Dungeons and Taverns (Datapack)](https://modrinth.com/datapack/dungeons-and-taverns) — данжи и таверны  
+- [Mob Captains (Datapack)](https://modrinth.com/datapack/mob-captains) — мобы-капитаны с улучшенным лутом  
+- [More Mobs (Datapack)](https://modrinth.com/datapack/more-mobs) — большее разнообразие мобов  
 
 ### 🌍 Генерация мира *(достаточно на сервере)*
 - [YUNG’s Better Dungeons](https://modrinth.com/mod/yungs-better-dungeons)  
@@ -66,6 +82,11 @@
 
 ---
 
+## 🧩 Серверные плагины
+- [EasyAuth](https://modrinth.com/mod/easyauth) — авторизация на сервере  
+
+---
+
 ## 🎮 Клиентские моды
 
 - [AppleSkin](https://modrinth.com/mod/appleskin) — отображает сытость еды  
@@ -75,5 +96,5 @@
 - [AmbientSounds](https://modrinth.com/mod/ambientsounds) — красивые звуки  
 - [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered) — реалистичная акустика  
 - [Sound](https://modrinth.com/mod/sound) — дополнительные звуки  
-- *(кажется, мод на «ходить через листву» ты продублировал в AmbientSounds — могу уточнить правильный мод)*  
+- [AudioPlayer](https://modrinth.com/mod/audioplayer) — проигрывание музыки прямо в игре  
 
